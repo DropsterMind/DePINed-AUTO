@@ -112,4 +112,4 @@ If you find this project helpful, consider supporting me through crypto tips:
 Don’t forget to star ⭐ and follow if you find it useful.
 If you encounter issues, have questions, or want to suggest improvements — feel free to reach out or open an issue right here.
 
-** — DropsterMind 🧠**
+**DropsterMind 🧠**
